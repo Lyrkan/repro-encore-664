@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@symfony/webpack-encore": "^0.28.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "v-autosize": "^1.0.3",
     "vue": "^2.6.10",
